@@ -1,5 +1,10 @@
+# Ignore compiled Java class files
 *.class
-*.log
+
+# Ignore common build folders
 bin/
 out/
+build/
+
+# VS Code settings folder (optional)
 .vscode/
